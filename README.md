@@ -1,3 +1,12 @@
+<h1 align="center"> Pasos para instalar </h1>
+<p> https://github.com/josefandino/Dashboard-laravel-6.git </p>
+<p> cd Dashboard-laravel-6</p>
+<p> composer install</p>
+<p> Composer update</p>
+<p> npm install && npm run dev </p>
+<p> php artisan serve --port 4500</p>
+<p> Alguna duda me puede escribir</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
