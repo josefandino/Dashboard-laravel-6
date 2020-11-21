@@ -1,5 +1,6 @@
 <h1 align="center"> Pasos para instalar </h1>
-<p> https://github.com/josefandino/Dashboard-laravel-6.git </p>
+<p> Se debe dirigir en la carpeta donde desea installar el proyecto y en la terminal [shell] escriba lo siguiente: </p>
+<p> git clone https://github.com/josefandino/Dashboard-laravel-6.git </p>
 <p> cd Dashboard-laravel-6</p>
 <p> composer install</p>
 <p> Composer update</p>
